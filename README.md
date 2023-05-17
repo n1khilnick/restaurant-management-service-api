@@ -23,6 +23,7 @@
 <br>
 
 ### API Reference:
+
 <br>
 
 >Admin's API References
@@ -89,6 +90,7 @@
 ```*.sh-session
   http://localhost:8080/user/order/email/{email}/token/{token}/orderId/{orderId}
 ```
+<br>
 
 >Food's API References:
 
@@ -98,6 +100,8 @@
 ```*.sh-session
   http://localhost:8080/Food/
 ```
+
+<br>
 
 >Viewer's API References:
 
@@ -128,3 +132,4 @@ Used `Iterable<T>` to store objects for entity classes.
 * The aim of this project to perform **_one to one_**, **_one-to-many_**, and **_many-to-one_** relationships mapping between entity classes.
 * Used interface classJpaRepository  for generic CRUD inbuilt operations like save,saveAll,updateById, etc.
 * Used our own custom finder methods and wrote operations using custom queries.
+* Implemened authenticaion for admin, user and their handler methods so every time we use their mappings it is required to authenticate.
