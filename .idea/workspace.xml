@@ -5,46 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="978f0f41-28cc-4da2-9c6f-8dab273ec802" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/RestaurantManagementServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/controllers/AdminController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/controllers/FoodController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/controllers/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/controllers/ViewerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/dto/SignInInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/dto/SignInOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/dto/SignUpOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/exceptions/UniversalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/models/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/models/AuthToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/models/Food.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/models/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/models/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/models/Viewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/models/enums/Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/repositories/IAdminDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/repositories/IAuthTokenDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/repositories/IFoodDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/repositories/IOrderDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/repositories/IUserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/services/AdminService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/services/AuthTokenService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/services/FoodService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/services/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekster/restaurantmanagementservice/services/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/restaurant-management-service-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/restaurant-management-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-05-19T15-20-23_793-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.geekster.restaurantmanagementservice.AdminManagementServiceApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.geekster.restaurantmanagementservice.AdminManagementServiceApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekster/restaurantmanagementservice/AdminManagementServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
