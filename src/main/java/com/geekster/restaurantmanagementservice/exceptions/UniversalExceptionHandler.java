@@ -12,8 +12,8 @@ import java.util.Map;
 @RestControllerAdvice
 public class UniversalExceptionHandler {
 
-    @ExceptionHandler(IllegalStateException.class)
-    public ResponseEntity<Map<String, String>> handleConstraintViolationException(IllegalStateException ex) {
+    @ExceptionHandler(Exception.class)
+    public ResponseEntity<Map<String, String>> handleUniversalException(Exception ex) {
         Map<String, String> errorObj = new HashMap<>();
 
         String error = "error";
